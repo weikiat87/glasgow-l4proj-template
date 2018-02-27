@@ -1,0 +1,14 @@
+dissertation.pdf
+*.pdf
+*.aux
+*.bbl
+*.blg
+*.cb
+*.cb2
+*.lof
+*.log
+*.lot
+*.toc
+*.fdb_latexmk
+*.sublime-workspace
+*.sublime-project
